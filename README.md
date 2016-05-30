@@ -1,6 +1,9 @@
 # Mydemo2
 通知机制：关于系统通知名称应用demo
 欢迎下载交流。 
+###本次开发环境
+Xcode: 7.2  
+iOS Simulator: iphone6
 
 ## 内容
 
