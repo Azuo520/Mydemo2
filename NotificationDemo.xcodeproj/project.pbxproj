@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		9F0D9CCA1CC8A21D009F6853 /* 通知机制：系统通知名称应用demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "通知机制：系统通知名称应用demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9F0D9CCA1CC8A21D009F6853 /* NotificationDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NotificationDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F0D9CCE1CC8A21D009F6853 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		9F0D9CD01CC8A21D009F6853 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		9F0D9CD11CC8A21D009F6853 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -42,7 +42,7 @@
 		9F0D9CC11CC8A21D009F6853 = {
 			isa = PBXGroup;
 			children = (
-				9F0D9CCC1CC8A21D009F6853 /* 通知机制：系统通知名称应用demo */,
+				9F0D9CCC1CC8A21D009F6853 /* NotificationDemo */,
 				9F0D9CCB1CC8A21D009F6853 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -50,12 +50,12 @@
 		9F0D9CCB1CC8A21D009F6853 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9F0D9CCA1CC8A21D009F6853 /* 通知机制：系统通知名称应用demo.app */,
+				9F0D9CCA1CC8A21D009F6853 /* NotificationDemo.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		9F0D9CCC1CC8A21D009F6853 /* 通知机制：系统通知名称应用demo */ = {
+		9F0D9CCC1CC8A21D009F6853 /* NotificationDemo */ = {
 			isa = PBXGroup;
 			children = (
 				9F0D9CD01CC8A21D009F6853 /* AppDelegate.h */,
@@ -68,7 +68,7 @@
 				9F0D9CDE1CC8A21D009F6853 /* Info.plist */,
 				9F0D9CCD1CC8A21D009F6853 /* Supporting Files */,
 			);
-			path = "通知机制：系统通知名称应用demo";
+			path = NotificationDemo;
 			sourceTree = "<group>";
 		};
 		9F0D9CCD1CC8A21D009F6853 /* Supporting Files */ = {
@@ -82,9 +82,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9F0D9CC91CC8A21D009F6853 /* 通知机制：系统通知名称应用demo */ = {
+		9F0D9CC91CC8A21D009F6853 /* NotificationDemo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9F0D9CE11CC8A21D009F6853 /* Build configuration list for PBXNativeTarget "通知机制：系统通知名称应用demo" */;
+			buildConfigurationList = 9F0D9CE11CC8A21D009F6853 /* Build configuration list for PBXNativeTarget "NotificationDemo" */;
 			buildPhases = (
 				9F0D9CC61CC8A21D009F6853 /* Sources */,
 				9F0D9CC71CC8A21D009F6853 /* Frameworks */,
@@ -94,9 +94,9 @@
 			);
 			dependencies = (
 			);
-			name = "通知机制：系统通知名称应用demo";
+			name = NotificationDemo;
 			productName = "通知机制：系统通知名称应用demo";
-			productReference = 9F0D9CCA1CC8A21D009F6853 /* 通知机制：系统通知名称应用demo.app */;
+			productReference = 9F0D9CCA1CC8A21D009F6853 /* NotificationDemo.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -113,11 +113,12 @@
 					};
 				};
 			};
-			buildConfigurationList = 9F0D9CC51CC8A21D009F6853 /* Build configuration list for PBXProject "通知机制：系统通知名称应用demo" */;
+			buildConfigurationList = 9F0D9CC51CC8A21D009F6853 /* Build configuration list for PBXProject "NotificationDemo" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -126,7 +127,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9F0D9CC91CC8A21D009F6853 /* 通知机制：系统通知名称应用demo */,
+				9F0D9CC91CC8A21D009F6853 /* NotificationDemo */,
 			);
 		};
 /* End PBXProject section */
@@ -284,7 +285,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9F0D9CC51CC8A21D009F6853 /* Build configuration list for PBXProject "通知机制：系统通知名称应用demo" */ = {
+		9F0D9CC51CC8A21D009F6853 /* Build configuration list for PBXProject "NotificationDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9F0D9CDF1CC8A21D009F6853 /* Debug */,
@@ -293,13 +294,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9F0D9CE11CC8A21D009F6853 /* Build configuration list for PBXNativeTarget "通知机制：系统通知名称应用demo" */ = {
+		9F0D9CE11CC8A21D009F6853 /* Build configuration list for PBXNativeTarget "NotificationDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9F0D9CE21CC8A21D009F6853 /* Debug */,
 				9F0D9CE31CC8A21D009F6853 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

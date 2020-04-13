@@ -1,6 +1,6 @@
 //
 //  AppDelegate.m
-//  通知机制：系统通知名称应用demo
+//  NotificationDemo
 //
 //  Created by zuoA on 16/4/21.
 //  Copyright © 2016年 啊左. All rights reserved.
