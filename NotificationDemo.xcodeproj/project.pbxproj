@@ -264,7 +264,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "通知机制：系统通知名称应用demo/Info.plist";
+				INFOPLIST_FILE = NotificationDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Azuo.-------------demo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -275,7 +275,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "通知机制：系统通知名称应用demo/Info.plist";
+				INFOPLIST_FILE = NotificationDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Azuo.-------------demo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
